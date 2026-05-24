@@ -1,9 +1,9 @@
 # Hi! I'm Ignacio Ramírez Bartolo
 
-I am a Computer Engineer graduated from UNAM, with a strong focus on software development, cloud infrastructure, and system automation.
+I am a high-performing Computer Engineer (GPA 98/100) from UNAM and a Huawei Developer Competition Top 10 Finalist. I specialize in cloud infrastructure and software engineering with a relentless User-First mindset.
 
 ## Who am I and what is my strength?
-My main strength is my ability to integrate full-stack technical solutions. I have hands-on experience in software development using **JavaScript** for client-side logic and creating dynamic, responsive web interfaces. I complement this with a solid command of **Python, Java, C#, and SQL**, along with a specialization in **AWS services** and **Terraform** for Infrastructure as Code (IaC). I have participated in high-level projects, including IoT system development (Top 10 Finalist in the Huawei Developer Competition 2024) and cloud-based solutions like my "CloudAir Intelligence" project.
+My strength lies in scaling technical operations and optimizing processes through data-driven solutions. I have a proven track record of translating complex technical failures into automated, high-availability workflows, whether I am querying SQL databases to improve performance by 40% or deploying containerized platforms. I am highly proficient in Python, SQL, and AWS infrastructure, while also leveraging JavaScript for client-side logic and dynamic interface development.
 
 ## Why am I here?
-I am here to apply my technical knowledge in world-class engineering environments. My goal is to collaborate on developing scalable and robust software, integrating my programming skills (including JavaScript and backend development) with industry best practices, and contributing to technological innovation within your team.
+I am here to merge my cloud engineering expertise with advanced development. My goal is to collaborate with cross-functional teams to build robust, scalable applications, integrating my programming skills (including JavaScript and backend integration) with industry best practices to deliver seamless, high-performance solutions.
